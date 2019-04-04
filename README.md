@@ -1,3 +1,0 @@
-# colormatch
-
-Pixi.js 
